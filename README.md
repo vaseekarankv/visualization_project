@@ -71,8 +71,7 @@ The visualization highlights the **5,000 kWh per capita Energy Poverty Threshold
 ## 📁 Repository Structure
 
 ```
-├── data/
-│   └── Final_CountryOnly.csv       # Cleaned dataset
+├── data        
 ├── images/
 │   └── dashboard.png               # Dashboard screenshot
 ├── docs/
