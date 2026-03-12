@@ -72,9 +72,7 @@ The visualization highlights the **5,000 kWh per capita Energy Poverty Threshold
 
 ```        
 ├── images/
-│   └── dashboard.png               # Dashboard screenshot
-├── docs/
-│   └── DMV_REPORT.pdf              # Full project report
+│   └── dashboard.png               # Dashboard screenshot             
 ├── Visualization.twb                # Tableau workbook                        
 └── README.md                        # Project documentation
 ```
